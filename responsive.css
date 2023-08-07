@@ -1,0 +1,118 @@
+
+ /* FOR MOBILE */
+@media(max-width:576px){
+.col-p1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-p2{
+	width:16.66%;
+	padding:0 15px;
+}	
+.col-p3{
+	width:25%;
+	padding:0 15px;
+}
+.col-p4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-p5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-p6{
+	width:50%;
+	padding:0 15px;
+}
+.col-p7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-p8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-p9{
+	width:75%;
+	padding:0 15px;
+}
+.col-p10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-p11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-p12{
+	width:100%;
+	padding:0 15px;	
+}
+.headingp{
+background-color:red;	
+}
+.d{
+	display:none;
+}
+
+}
+
+   /* FOR TAB */
+
+@media(max-width:768px){
+.col-1i{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2i{
+	width:16.66%;
+	padding:0 15px;
+}	
+.col-3i{
+	width:25%;
+	padding:0 15px;
+}
+.col-4i{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-5i{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-6i{
+	width:50%;
+	padding:0 15px;
+}
+.col-7i{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-8i{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-9i{
+	width:75%;
+	padding:0 15px;
+}
+.col-10i{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-11i{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-12i{
+	width:100%;
+	padding:0 15px;	
+}
+.headingp{
+background-color:yellow;	
+}
+.d{
+	display:none;
+}
+}
